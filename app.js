@@ -1,7 +1,14 @@
 import express from 'express';
 import cors from 'cors';
 import natural from 'natural';
-import data from "./classifier.json" assert { type: "json" };
+
+import {readFile} from "fs/promises";
+
+const loadData = async () => {
+    const data = await readFile('./classifier.json', 'utf8');
+    return JSON.parse(data);
+}
+const data = await loadData();
 
 const app = express();
 app.use(cors());
