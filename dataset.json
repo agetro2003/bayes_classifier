@@ -355,6 +355,10 @@
     { "nombre": "Clase de Baile - 1 Sesión", "tag": "entretenimiento" },
     { "nombre": "Alquiler Equipo de Paintball", "tag": "entretenimiento" },
     { "nombre": "Entrada Fiesta electronica", "tag": "entretenimiento" },
-    { "nombre": "Pase Acceso Trampolines - 1 Hora", "tag": "entretenimiento" }
+    { "nombre": "Pase Acceso Trampolines - 1 Hora", "tag": "entretenimiento" },
+    { "nombre": "PIPA 'G' GREFUSA 165G TIJUA 170G", "tag": "comestibles" },
+    { "nombre": "GALLETA FINA FONTANEDA 170G", "tag": "comestibles" },
+    { "nombre": "CHICLE S/AZUCAR ALIPENDE 45", "tag": "comestibles" },
+    { "nombre": "CROISSANT ALIPENDE 360G REL", "tag": "comestibles" }
   ]
   
